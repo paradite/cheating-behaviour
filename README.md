@@ -8,3 +8,4 @@ I will never personally do these, and I don't like it when others pressure me to
 
 - Changing the geolocation to a different country (via VPN, proxy, etc.) to get a cheaper price for a product.
 - Using an education email to get a discount on a product, despite already graduated and no longer a student.
+- Circumventing security checks at condominiums by claiming be a resident when the real purpose is to visit someone.
